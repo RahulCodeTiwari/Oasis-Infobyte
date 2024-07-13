@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    
+}
+
+.text-center{
+    text-align: center;
+}
+
+.container{
+   
+   text-align: center;
+    background-color: rgb(58, 37, 37);
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    
+}
+.button{
+    padding: 20px;
+    width: 50px;
+    margin: 0 2px 8px;
+    border: 1px solid black ;
+    border-radius: 0.5rem;
+    cursor: pointer;    
+}
+
+
+.inprow input{
+    margin: 10px;
+    padding: 6px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
